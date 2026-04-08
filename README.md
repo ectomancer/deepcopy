@@ -1,4 +1,4 @@
 # deepcopy
 Pure Python recursive deepcopy
-Designed and coded by ChatGPT,
-I added code for frozenset, bytes and bytearray.
+<p>Designed and coded by ChatGPT,
+<p></p>I added code for frozenset, bytes and bytearray.
